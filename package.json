@@ -1,0 +1,14 @@
+{
+  "name": "youtubescreenshot",
+  "version": "1.0.0",
+  "description": "Puppeteer scraping youtube videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Walker",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.13.0"
+  }
+}
