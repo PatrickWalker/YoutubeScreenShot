@@ -9,6 +9,8 @@
   "author": "Patrick Walker",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.2",
     "puppeteer": "^1.13.0"
   }
 }
